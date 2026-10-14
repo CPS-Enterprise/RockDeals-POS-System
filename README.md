@@ -1,28 +1,3 @@
-<div align="right" dir="rtl" style="background-color: #011C40; color: #A7EBF2; padding: 30px; border-radius: 20px; border: 3px solid #023859; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; box-shadow: 0 15px 35px rgba(0,0,0,0.6);">
-    <div align="center">
-        <img src="https://gitlab.com/ahmedhajjajofficial.workspace-group/ahmedhajjajofficial.workspace-project/-/raw/main/logo.jpg" width="150" style="border-radius: 15px; border: 2px solid #54ACBF; background: white; padding: 10px;">
-        <h1 style="color: #A7EBF2; margin-top: 20px; text-shadow: 2px 2px 4px #000000; letter-spacing: 1px;">إشعار الملكية الفكرية والحماية القانونية</h1>
-        <h2 style="color: #54ACBF; font-size: 1.2em; margin-bottom: 10px;">CP'S Enterprise Tech Solution</h2>
-    </div>
-    <hr style="border: 0; height: 2px; background-image: linear-gradient(to right, transparent, #26658C, #54ACBF, #26658C, transparent); margin: 25px 0;">
-    <div style="background: rgba(2, 56, 89, 0.4); padding: 25px; border-radius: 15px; color: #eeeeee; line-height: 2; border-right: 5px solid #54ACBF;">
-        <h3 style="color: #A7EBF2; margin-top: 0; display: flex; align-items: center;">🚫 قيود الاستخدام الصارمة</h3>
-        <p>يعتبر هذا المشروع ملكية حصرية للمطور والمؤسس: <b>Ahmed Hajjaj Mohammad Hashem</b> لصالح <b>CP'S Enterprise Tech Solution</b>.</p>
-        <p>بموجب القوانين الدولية لحماية حق المؤلف، نوضح ما يلي:</p>
-        <ul style="list-style-type: none; padding-right: 10px;">
-            <li style="margin-bottom: 10px;">🔹 <b>الحظر الشامل:</b> يمنع نسخ أو اقتباس أو إعادة استخدام أي جزء من هذا الكود المصدري.</li>
-            <li style="margin-bottom: 10px;">🔹 <b>الاستغلال التجاري:</b> يمنع بتاتاً استخدام هذا العمل في أي نشاط ربحي أو مؤسسي خارج إطار CP'S.</li>
-            <li style="margin-bottom: 10px;">🔹 <b>التعديل والاشتقاق:</b> لا يُسمح ببناء أعمال مشتقة أو تعديل الكود لأي غرض كان.</li>
-        </ul>
-        <div style="background: #26658C; color: #A7EBF2; padding: 15px; border-radius: 8px; text-align: center; font-weight: bold; border: 1px solid #54ACBF; margin-top: 20px;">
-            جميع الحقوق محفوظة © 2026 | أي استخدام غير مصرح به يؤدي للملاحقة القانونية المباشرة.
-        </div>
-    </div>
-    <div align="center" style="margin-top: 30px;">
-        <p style="font-size: 0.95em; color: #54ACBF;">لطلب تصاريح خاصة أو التعاون الرسمي:</p>
-        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedhajjajofficial@gmail.com&su=Inquiry Regarding CP'S Tech Solution Protection" style="display: inline-block; background: linear-gradient(135deg, #023859, #26658C); color: #A7EBF2; padding: 14px 35px; border-radius: 10px; text-decoration: none; font-weight: bold; border: 1px solid #54ACBF; transition: 0.3s; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">إرسال طلب رسمي للمالك</a>
-    </div>
-</div>
 # RockDeals - نظام إدارة المبيعات ونقاط البيع
 
 ## نظرة عامة
